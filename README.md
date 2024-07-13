@@ -16,8 +16,8 @@ To get started with creating your HTML portfolio, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/html-portfolio.git
-    cd html-portfolio
+    git clone https://github.com/devsalmanquadri/portfoliomaker.git
+    cd portfoliomaker
     ```
 
 2. **Open the Project:**
@@ -28,7 +28,7 @@ To get started with creating your HTML portfolio, follow these steps:
     - Replace the placeholder text with your personal information, including your name, bio, projects, and contact details.
 
 4. **Customize the Design:**
-    - Open the `styles.css` file.
+    - Open the `index.html` file.
     - Adjust the CSS properties to change the colors, fonts, and other design elements as per your preference.
 
 5. **Preview Your Portfolio:**
@@ -39,43 +39,15 @@ To get started with creating your HTML portfolio, follow these steps:
 
 ## Project Structure
 
-- `index.html`: Main HTML file for the portfolio.
-- `styles.css`: CSS file for styling the portfolio.
-- `scripts.js`: JavaScript file for any interactive elements or functionality (if applicable).
-- `assets/`: Directory for images, icons, and other assets used in the portfolio.
-
-## Customization
-
-### Changing Colors and Fonts
-
-To change the colors and fonts used in your portfolio, edit the `styles.css` file. Look for the following sections:
-
-- **Colors:** Update the CSS variables for primary and secondary colors.
-- **Fonts:** Change the font-family properties to use your preferred fonts.
-
-### Adding New Sections
-
-To add new sections to your portfolio, follow these steps:
-
-1. **HTML:**
-    - Open the `index.html` file.
-    - Add a new section with the desired content.
-
-2. **CSS:**
-    - Open the `styles.css` file.
-    - Add new styles for the section to ensure it matches the overall design.
+- `index.html`: Main HTML for all things like styling and scripting for the portfolio.
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact me at [your-email@example.com].
+If you have any questions or need further assistance, feel free to contact me at secretofsk@gmail.com.
 
 ---
 
